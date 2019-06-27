@@ -11,7 +11,7 @@ using Microsoft.VisualStudio.Services.WebApi.Patch.Json;
 using Newtonsoft.Json;
 
 namespace VSTSRMAPISample
-{
+{ 
     class Program
     {
         public static string vstsUrl = "http://localhost/DefaultCollection";
